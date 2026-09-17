@@ -1,0 +1,13 @@
+package com.doop;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DoopApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
